@@ -1,6 +1,6 @@
 Basic Calculator using Python and Tkinter
 Project Overview
-This project is a basic desktop calculator developed using Python and Tkinter as part of the NextHikes IT Solutions – Project 2: Building Basic Calculator internship assignment.
+This project is a basic desktop calculator developed using Python and Tkinter.
 
 The application provides a graphical user interface (GUI) with a display screen and clickable buttons for entering numbers and arithmetic operators.
 Features
